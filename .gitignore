@@ -1,3 +1,22 @@
+# Data & Checkpoints
+shakespeare_char/input.txt
+shakespeare_char/train.bin
+shakespeare_char/val.bin
+shakespeare_char/meta.pkl
+*.pt
+*.bin
+checkpoints/
+
+# Python cache
 __pycache__/
 *.pyc
-*.pt
+.venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
